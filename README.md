@@ -1,2 +1,2 @@
 # Git-lab
-# Este repositorio pertenece a la primer entrega
+# Este repositorio pertenece a la primer entrega, en la cual he creado un repositorio en GitHub y clonado, a continuación de ha creado el archivo index.html en el cual he incluido un esqueleto html5 y una estructura de texto simple. Posteriormente se ha creado la rama "development" y dentro de ella hemos modificado y añadido texto al archivo index.html, a continuacion trabajando desde la rama main, he hecho merge con "development" y se ha hecho push para guardar los cambios en remoto. 
